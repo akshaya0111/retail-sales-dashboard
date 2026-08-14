@@ -62,8 +62,7 @@ This view presents additional insights through interactive visualizations and he
 ## 🎥 Dashboard Demo
 
 Watch the interactive Retail Sales Dashboard demonstration:
-
-[▶️ Watch Dashboard Demo]Screen Recording 2026-08-06 190702-compressed.mp4
+[▶️ Watch Dashboard Demo](./Screen%20Recording%202026-08-06%20190702-compressed.mp4)
 ## 👩‍💻 Author
 
 **Akshaya S**
