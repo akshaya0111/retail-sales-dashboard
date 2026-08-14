@@ -29,7 +29,11 @@ The data used for this project was accessed through Snowflake. The original data
 
 ## 📷 Dashboard Preview
 
-Dashboard screenshots will be added to the `images` folder.
+![Retail Dashboard Overview](./Screenshot%202026-08-14%20140452.png)
+
+![Retail Dashboard Analysis](./Screenshot%202026-08-14%20140555.png)
+
+![Retail Dashboard Insights](./Screenshot%202026-08-14%20140655.png)
 
 ## 👩‍💻 Author
 
